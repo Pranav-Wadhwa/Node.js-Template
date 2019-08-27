@@ -11,8 +11,9 @@ This Node.js template uses [Express](http://expressjs.com) for simplifying serve
 2. Make sure you have [node.js and node package manager (npm)](https://www.npmjs.com/get-npm) installed on your device.
 
 2. Open up your terminal and run the following:
-
-    npm install express
-    npm install path
+```
+npm install express
+npm install path
+```
 
 3. Within the directory of the project, run `node index.js` to start your server. Open up your favorite browser and head to `localhost:8000` to view your site!
